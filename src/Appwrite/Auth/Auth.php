@@ -1,7 +1,5 @@
 <?php
 
-namespace Appwrite\Auth;
-
 use Appwrite\Auth\Hash\Argon2;
 use Appwrite\Auth\Hash\Bcrypt;
 use Appwrite\Auth\Hash\Md5;
